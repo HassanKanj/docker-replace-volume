@@ -1,0 +1,14 @@
+{
+  "name": "docker-replace-volume",
+  "version": "1.0.0",
+  "description": "Replace a docker volume by another volume",
+  "main": "replace-volume.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassan Kanj",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.1.1"
+  }
+}
